@@ -1,2 +1,1 @@
-# rajabi-a
 Circular Energy
